@@ -17,6 +17,7 @@
 <br><br>
 
 # Languages and Tools:
+
 <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px">
 <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="30px" height="30px">&nbsp;&nbsp;
 <img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="30px" height="30px">&nbsp;&nbsp;
