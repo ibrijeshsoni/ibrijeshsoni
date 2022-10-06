@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Brijesh%20Soni&width=800&height=100)](https://github.com/ibrijeshsoni)
 
 <p align="center">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things;Software%20Engineer%20at%20Planfirma&center=true&width=500&height=50"></a>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things;Software%20Engineer%20at%20Planfirma&center=true&width=500&height=50">
 </p>
 
 # About Me 
