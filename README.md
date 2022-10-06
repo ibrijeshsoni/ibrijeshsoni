@@ -4,8 +4,8 @@
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things;Software%20Engineer%20at%20Planfirma&center=true&width=500&height=50"></a>
 </p>
 
-# About Me
-> ###  Detail-oriented, efficient and organized professional with extensive experience in Information Technology. Possess strong analytical and problem-solving skills, with the ability to make well thought out decisions. Excellent written and verbal communication skills. Highly trustworthy, discreet and ethical. Resourceful in the completion of projects, effective at multitasking, spanned over different technologies.
+# About Me 
+> Detail-oriented, efficient and organized professional with extensive experience in Information Technology. Possess strong analytical and problem-solving skills, with the ability to make well thought out decisions. Excellent written and verbal communication skills. Highly trustworthy, discreet and ethical. Resourceful in the completion of projects, effective at multitasking, spanned over different technologies.
 
 <br><br>
 
