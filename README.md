@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 800px; height:100px " />
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 500px; height:800px " />
 </div>  
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Brijesh%20Soni&width=800&height=100)](https://github.com/ibrijeshsoni)
