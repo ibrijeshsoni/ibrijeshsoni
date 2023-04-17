@@ -31,6 +31,8 @@
 <img src="https://github.com/get-icon/geticon/raw/master/icons/nuxt-icon.svg" alt="React" width="30px" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="30px" height="30px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="typescript" width="30px" height="30px">
+<img src="https://github.com/get-icon/geticon/blob/master/icons/bitcoin.svg" alt="blockchain" width="30px" height="30px">
+<img src="https://user-images.githubusercontent.com/8235010/232411315-7159b379-1e97-4980-86b5-fb18f90e4838.png" alt="metaverse" width="30px" height="30px">
 
 <br/>
 <br/>
