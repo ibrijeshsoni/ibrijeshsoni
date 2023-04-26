@@ -9,7 +9,7 @@
 </p>
 
 # About Me 
-> Detail-oriented, efficient and organized professional with extensive experience in Information Technology. Possess strong analytical and problem-solving skills, with the ability to make well thought out decisions. Excellent written and verbal communication skills. Highly trustworthy, discreet and ethical. Resourceful in the completion of projects, effective at multitasking, spanned over different technologies.
+> To leverage my extensive experience and expertise as Senior Software Engineer to contribute my experience. I am seeking a challenging role that allows me to utilize my leadership, analytical, and strategic thinking skills to drive business growth and achieve results. I want to join a team that values collaboration, innovation, and continuous improvement.
 
 <br><br>
 
